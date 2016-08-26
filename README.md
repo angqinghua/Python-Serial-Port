@@ -1,5 +1,6 @@
 # Python-Serial-Port
 **PyQt5 GUI study**  
+  
 ---
 ####Functions  
 - Serial Port  
@@ -7,4 +8,5 @@
 - Scan Serial Ports  
 - Open/Close  
 - TextEdit  
+  
 ---
